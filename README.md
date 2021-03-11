@@ -280,7 +280,7 @@ gold band ring
       - Clerk pulls out firebreath potion, fire resistance potion, potion of fire giants strength
     - Elevda ordered 4 x small healing pots @ 200g total
       - Potions of healing: They heal 2d4 + 2
-  - Went to Alastairs to ask if the could take us back
+  - Went to Alastairs to ask if the Fey key could take us back
     - Yes!
   - Back to Grey Goose; drinking, eating and being merry
     - Reldath read some of his Planar travel book (8/36hrs)
@@ -293,6 +293,7 @@ gold band ring
     - Above sea, but there is land about half a day's walk S/SE
   - Evelda leads us pretty well in the S/SE direction and we walk for 4 hours.
   - Reopen the door, and we've gotten closer, but we've only covered half the distance that we should have done
+  - Thundhrum mentions that it's super busy in Alastairs but not outside, hints that Alastairs exists in many places
   - Walk for like 8h until we get to a patch of land where we 
   - Reldath reads 4h of Planar Travel
   - Thundhrum reads Feybled Love: A Young farm girl falls in love with a Fey invader; basically Romeo + Juliet x 50 shades of Fey
