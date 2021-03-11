@@ -23,10 +23,6 @@
 
 4th Age 682 11th Winterscrest
 
-
-
-# Guild funds: 887g
-
 # Session One
 
 At winking Pixie
@@ -176,7 +172,7 @@ gold band ring
 - Oren Folknore is the short leader
 ## On the boat
 - Bill and Ben and the cleaning men & Reldath
-- Roberto the chef & Thundrum
+- Roberto the chef & Thundrhum
 - Security & Evelda
 - First mate oloren (orens half bro) & tinkering
 ## 24th Winterscrest
@@ -205,7 +201,7 @@ gold band ring
  - Fairly reputable bookshop near where royal docks meet the temple plaza.
 
 ### Travelling South
- - Come across a temple with snake-humans. Kill them. Solve puzzle in temple to avoid drowning by sand. Fall down and get my shoe laces tied and pushed over by Thundrum.
+ - Come across a temple with snake-humans. Kill them. Solve puzzle in temple to avoid drowning by sand. Fall down and get my shoe laces tied and pushed over by Thundrhum.
 
 ### Dinosaur type fuck off thing, ankliosarous
   - Thought to be nesting a day to a day and a half south, down river from Elsnas.
@@ -220,7 +216,7 @@ gold band ring
      - Identify reveals nothing. Not sure who could appraise it either
        - Alaistar might help, but I cannot really tell who could help
        - Never heard of an item that simply rejects an identify spell
-    - Thundrum does history check for deities
+    - Thundrhum does history check for deities
       - He is aware of serpent dieties, but cannot recall them
    - In chests, got
      - 250g
@@ -234,15 +230,84 @@ gold band ring
     - Cloak of billowing
     - Cloak of the laughing bard
     - Owl googles (nightvision)
-    - Fayewild key
+    - Feywild key
     - Bracers of defense
     - Bag of holding
     - Boots of speed
   - Killed some regular gnolls, regular gnolls
     - Found a broken amulet -- Looks like a silver snake but has a snapped head
 
+# Session 11
+## Night of 38th Winterscrest
+  - In gnoll cave
+    3-4 hours away from town
+  - Colgate got us back to Pietris' house
+    - Slept in his house for the night
+## 39th Winterscrest
+  - Get up early -- Travel back to Lonlin
+  - Go to unique persuits. Speak to Englebert
+    - Bartimus convinced him to pay us -- We had no proof!
+  - Reldath & Thundrhum go to the university
+    - Enho Alunar has a map
+    - Do have texts on:
+      - The flora and fauna and their magical properties (herbalism to make unique pots and enchantments)
+      - Using the feywild as a conduit to the elemental planes (planar travel)
+      - Cultural heritage book; musings on the culture of the two major factions within the Feywild
+    - Reldath pinches the herbalism book
+    - Reldath reads the planar travel book:
+      - The hitchhikers guide to the planes -- Feywild to Elemental
+      - Concepts are incredibly tough to follow, leaps in technicality. Interesting read however.
+      - Reldath doesn't understand anything that he could use immediately, but feels confident that if he could grasp some more of the technical aspects then could make a planar shift spell
+    - Reldath pinches the planar travel book
+    - Thundrhum reads the factions book:
+      - Very dreary, dry history book. Might learn something if could read a few more passages and it could be useful if
+      - Fey + Fairies
+      - Find an index of the major regions of the Feywild:
+        - Imolonean gulf
+        - Seagelbian empire
+        - Kingdom of Mompoiaria
+        - The grand dutchee of Fey
+        - The thearchy of Hunhan
+        - The diosys of Algarmia
+    - Pinch the planar travel book
+    - Put the clark to sleep because she called me out on stealing a book
+    - Return the book "herbalism" and walked off
+  - Evelda & Bartimus go to the potion shop: Elegant wing
+    - Basic healing pot 50g
+    - More potent 300g
+    - Stronger than that, needs to be requested, >1000g
+    - Bartimus didn't understand the orders, just asks for 300g of "RED" potions
+      - Clerk pulls out firebreath potion, fire resistance potion, potion of fire giants strength
+    - Elevda ordered 4 x small healing pots @ 200g total
+      - Potions of healing: They heal 2d4 + 2
+  - Went to Alastairs to ask if the could take us back
+    - Yes!
+  - Back to Grey Goose; drinking, eating and being merry
+    - Reldath read some of his Planar travel book (8/36hrs)
+## 40th Winterscrest
+  - Go to the book shop "Second Page" in the Temple district
+    - Find a book (pocket book, explorers guide); mostly material plane, but has a "Beyond the Material Plane" chapter with fauna of the Feywild.
+    - Trashiest Fey love story, "Feybled love".
+      - Reldath tried to get Thundrhum to read it. He knew Reldath was talking shit (with a nat 20!) but took the book to read anyway!
+  - Open Feywild door
+    - Above sea, but there is land about half a day's walk S/SE
+  - Evelda leads us pretty well in the S/SE direction and we walk for 4 hours.
+  - Reopen the door, and we've gotten closer, but we've only covered half the distance that we should have done
+  - Walk for like 8h until we get to a patch of land where we 
+  - Reldath reads 4h of Planar Travel
+  - Thundhrum reads Feybled Love: A Young farm girl falls in love with a Fey invader; basically Romeo + Juliet x 50 shades of Fey
+    - In the bedroom she calls him Mr Fey.
+
+## 1st Winterspeak
+- Walk into Fey
+  - Deep teal grass and trees. Sky is purple with yellow lighted stars. Sea is a green hue. Trees are interspersed with giant mushrooms.
+  - Wander into the forests of the Feywild.
+
 # People
 ## Reldath (Me) the dwarf
 ## Evelda (Bex) the half human/half orc
 ## Bartimus (Ceidz) the human bard
-## Thundrum (Tom) the dwarf by Barrowport (capital)
+## Thundrhum (Tom) the dwarf by Barrowport (capital)
+
+# Guild funds: 237g
+# Experience: 4400 (Session 11)
