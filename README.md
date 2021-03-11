@@ -228,6 +228,19 @@ gold band ring
      - 2 ornate red vials
      - 1 ornate scepter
 
+# Session 10
+  - Spoke to Sarah, the chatty one
+  - Alastair gave us a 9000g advance
+    - Cloak of billowing
+    - Cloak of the laughing bard
+    - Owl googles (nightvision)
+    - Fayewild key
+    - Bracers of defense
+    - Bag of holding
+    - Boots of speed
+  - Killed some regular gnolls, regular gnolls
+    - Found a broken amulet -- Looks like a silver snake but has a snapped head
+
 # People
 ## Reldath (Me) the dwarf
 ## Evelda (Bex) the half human/half orc
