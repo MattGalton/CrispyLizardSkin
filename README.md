@@ -304,7 +304,7 @@ gold band ring
   - Wander into the forests of the Feywild.
 
 # People
-## Reldath (Me) the dwarf
+## Reldath (Matt) the dwarf
 ## Evelda (Bex) the half human/half orc
 ## Bartimus (Ceidz) the human bard
 ## Thundrhum (Tom) the dwarf by Barrowport (capital)
