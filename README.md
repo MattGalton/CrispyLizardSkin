@@ -1,10 +1,10 @@
-# Universe
-## Every month has 40 days, there are 9 months.
-
-# Single biggest hit
-  - Evelda: 37. (1d12 + 1d4) + (1d12 + 1d4)(crit) + (1d12)(savage attacks, lvl 3)
-# Total damage done in a round
-  - Evelda: Same as single biggest hit
+# Lore
+## Universe
+- Every month has 40 days, there are 9 months. 360 days in a year.
+- Seasons:
+  - Winterscrest
+  - Winterspeak
+  - Wintersfall
 
 # History
 ## 1st Age
@@ -304,11 +304,56 @@ gold band ring
   - Deep teal grass and trees. Sky is purple with yellow lighted stars. Sea is a green hue. Trees are interspersed with giant mushrooms.
   - Wander into the forests of the Feywild.
 
+# Session 12
+
+## 1st Winterspeak
+- Want to find Asara.
+  - Looking to study god of wisom, Zavylan.
+- North and west is to the coast (and back to where we were on the material plane)
+- South and east is forest as far as the eye can see
+- Travelled into the forest, came across 4 beasts.
+  - They had 4 beady eyes, 2 mandibles and mouths full of webs. They were bipedal and had long lanky arms:<figure><center><figcaption><small>Etticap</figcaption><img src=images/12/etticap.png width="150"></center></figure>
+  - During the fight, two more Etticaps appear. We fuck those bois up.
+  - After the fight, Simon came out for the first time: <center><img src=images/12/simon.png></center>
+- Didn't bring rations. Used survival guide to find out that Etticaps are just general beasts of the Feywild. Preys on Sprites and Pixies.
+- Manage to scrap together enough food with the guide to get two rations. Takes an hour.
+  - Dwarf berry party.
+- Have a sleep. Feel rested. Wake up and it's still twilight, which is very strange. The sky has shifted but no change in daylight.
+
+## 2nd Winterspeak
+- Travel SE for about 2 hours. Forest gets thinner, and then we get to a road, going going NE and SW.
+  - Colgate flies NE and reports a small little town (literally, small and _little_).
+  - Send him SW and tell him to meet us on the road, while we travel NE.
+  - He catches up after half hour, couldn't see anything 10-15 mins SW.
+  - Walk for about 2 hours. The road goes from 8-10ft wide, narrowing to 1ft wide.
+- We hit the small and little town
+  - It's _very_ little. The doors are about 15inches high. Most built into the trees.
+  - Seems about a medium sized town, but scaled down tiny so you can't tell.
+- We hear whispering and laughing that we can't understand.
+  - Reldath casts comprehend languages and find the language to be almost musical -- He hears "Aren't they funny? What are they doing here? How did they get here?"
+  - With a good arcana check, I gauge there are probably quite a few invisible creatures around.
+  - Bartimus uses detect magic to find out these creatures are actually invisible
+- Walk to center of the town. As we think of leaving, a 12inch tall, flying creature appears in front of Reldath's face. Think it's a giant butterfly, but it's a 10-12in tall human who is very well dressed.
+  - It speaks and says "what is a group of four people such as yourselves doing here?"
+  - After some chat we find out they speak Silven
+  - He's the high Pixie, welcomed us to Colzieu
+  - If we sort out his mushroom cave problem, he'll introduce us to the high Pixie in Feyhall, and let us see his map of the Feywild.
+  - Directly South is the cave. About half a day.
+  - Introduce myself as Reldath. He introduces himself as Daloran. 
+    - Bartimus plays a tune on his drums to Daloran. Several pixies start **fucking vibing**.
+- Start travelling South to get to the mushroom cave.
+
 # People
-## Reldath (Matt) the dwarf
-## Evelda (Bex) the half human/half orc
-## Bartimus (Ceidz) the human bard
-## Thundrhum (Tom) the dwarf by Barrowport (capital)
+- Reldath (Matt) the dwarf
+- Evelda (Bex) the half human/half orc
+- Bartimus (Ceidz) the human bard
+- Thundrhum (Tom) the dwarf by Barrowport (capital)
 
 # Guild funds: 237g
 # Experience: 4400 (Session 11)
+
+# Big hits
+## Single biggest hit
+  - Evelda: 37. (1d12 + 1d4) + (1d12 + 1d4)(crit) + (1d12)(savage attacks, lvl 3)
+## Total damage done in a round
+  - Evelda: Same as single biggest hit
