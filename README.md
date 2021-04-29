@@ -342,6 +342,7 @@ gold band ring
   - Introduce myself as Reldath. He introduces himself as Daloran. 
     - Bartimus plays a tune on his drums to Daloran. Several pixies start **fucking vibing**.
 - Start travelling South to get to the mushroom cave.
+- Received 675 xp.
 
 # People
 - Reldath (Matt) the dwarf
@@ -350,7 +351,7 @@ gold band ring
 - Thundrhum (Tom) the dwarf by Barrowport (capital)
 
 # Guild funds: 237g
-# Experience: 4400 (Session 11)
+# Experience: 5075 (at end of Session 11)
 
 # Big hits
 ## Single biggest hit
