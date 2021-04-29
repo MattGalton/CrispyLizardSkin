@@ -344,17 +344,56 @@ gold band ring
 - Start travelling South to get to the mushroom cave.
 - Received 675 xp.
 
+# Session 13
+- Takes us 8 hours to do a 4 hour walk south to the cave
+- Try to sneak in the cave, but Thundhrum's billowing cape gave us away ( a 1 (-1) stealth roll!!)
+- Reldath casts minor illusion to make an image of Daloran appear, and a huge 4ft rock spanks through the illusion.
+- We fight and beat the boi up:<figure><center><figcaption><small>Some sort of giant</figcaption><img src=images/13/giant-thing.png width="150"></center></figure>
+- Searching the cave, we find 8g and in a hidey hole Reldath finds 3x glowing mushroom caps
+  - Reldath casts identify and finds out they are faintly magical, but he feels that they would allow you to perform a little better, regardless of goal. (Eating 1 gives advantage on next attack role or ability check for 1hr)
+- We sleep in the cave, Reldath reads his book and doesn't sleep.
+
+## 3rd Winterspeak
+- Bartimus chops off all of the giant's fingers to make crossbow bolts in the future
+- Evelda pulled a tusk out of the giant
+- Head back to Colzieu, speak to Daloran. We give him the tusk as proof. He lets us copy his map and starts taking us to see the high pixie.
+- We play geoguessr on the map to guess where we are.
+- He says we must be on our way then, and cracks on.
+- He explains how to tell the time in the Feywild:
+  - We use this small cluster of 5 yellow stars to tell the time.
+    - They form an almost perfect pentagon. They trace across the sky 5 times in a day. The day becomes 5 chunks. Usually between 3.30 & 4.30 we rest & sleep. We wake up at 1.30
+    - Once they are out of view, there is another cluster they use to tell the time then. 7 pointed cluster is the "moon".
+- Bartimus, from listening to Daloran, thinks he learns some Sylvian: Yes = Fi, No = Von, Please = Si Lah, Thankyou = Mer Tu
+  - Daloran thinks Bartimus can speak Sylvan, and asks him why he didn't say
+  - Bartimus says Fi, Von, Si Lah, Mer Tu and learns that he does in fact know these words!
+- Reldath finds out that Simon is affected by true polymorph.
+  - Evelda doesn't seem to mind all that much!
+- Thundhrum casts zone of truth and finds out that Simon is, indeed, a good boy
+
+## 4th Winterspeak
+- Travel to a huge body of water. Realise it must join the ocean and the canal on the other side. (We reach Fayhall!)
+- As we travel, we see sort-of-elves, but can't identify them properly. They have flatter ears and different eye colours. They're doing the bulk of the manual labour. We reach Two Rings and walk to the river's edge.
+- We receive 1050 XP.
+
+
 # People
 - Reldath (Matt) the dwarf
 - Evelda (Bex) the half human/half orc
 - Bartimus (Ceidz) the human bard
 - Thundrhum (Tom) the dwarf by Barrowport (capital)
 
+# Bag of holding (500lb capacity)
+ - 10 x giant fingers (20lb)
+
 # Guild funds: 237g
-# Experience: 5075 (at end of Session 11)
+
+# Experience: 6125 (at end of Session 13)
 
 # Big hits
 ## Single biggest hit
-  - Evelda: 37. (1d12 + 1d4) + (1d12 + 1d4)(crit) + (1d12)(savage attacks, lvl 3)
+  2. Evelda: 40. (1d12 + 1d4) + (1d12 + 1d4)(crit) + (1d12)(savage attacks) + 1d4(fire). Level 4
+  1. Evelda: 37. (1d12 + 1d4) + (1d12 + 1d4)(crit) + (1d12)(savage attacks, lvl 3)
+
 ## Total damage done in a round
-  - Evelda: Same as single biggest hit
+  2. Evelda: Same as single biggest (2)
+  1. Evelda: Same as single biggest (1)
