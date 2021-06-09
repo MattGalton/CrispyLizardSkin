@@ -375,6 +375,46 @@ gold band ring
 - As we travel, we see sort-of-elves, but can't identify them properly. They have flatter ears and different eye colours. They're doing the bulk of the manual labour. We reach Two Rings and walk to the river's edge.
 - We receive 1050 XP.
 
+# Session 14
+
+- On Mistcrown side of city -- North gate is the "manual labor" side of the city. Mistcrow has a far greater number of pixie houses instead of "elf" houses.
+
+## Guest visitor Jenni (Kay)
+
+- Get to the high pixie's halls
+  - He says he thinks they speak the language of the Sylvan Elves
+    - He says it distastefully
+  - The high pixie snaps her fingers, and a sylvan elf appears with dark hair, olive skin, hazel-green eyes, young looking.
+- Have a discussion with the high pixie, who trapped us and led us away to our quarters
+<figure><center><figcaption><small>The high pixie</figcaption><img src=images/14/high_pixie.png width="250"></center></figure>
+- Ran away, found out that Kay has a master.
+- Kay doesn't know the name Asara, but knows that Zyvllan is a key deity (but not the major one!). She does know that swamp witches are common in the Fae!
+- Found out that the middle island is hotly contested between pixies and sylvan elves -- There's a war going on!
+- Decide to travel to the main Zyvillan temple on the West island in Shylalian.
+- Start heading back to Colzieu to see if we can get a boat
+  - We have a nights rest
+
+## 5th Winterspeak
+## 6th Winterspeak
+- Spend the day travelling, reach Colzieu near the end of the day
+- We walk into the town to gasps and invisible pixies rushing to their homes
+- Head to the port, to see if there are any boats
+  - The port is quite small, but not tiny. There is one boat that Bartimus and Thundhrum recons they could fit us all on -- They wouldn't take it on the material plane, since they are too rough.
+    - The seas are a purple hue. They appear to be very calm and tranquil looking from the dock. Kay and Thundhrum have a discussion and recon that the waters in the Fae are more like still, fresh water from the Material plane
+      - Bartimus points out there is no moon, and Thunhdhrum calls him a nerd
+- Reldath drinks the water and his skin goes barky
+- We get on the boat, and Thundhrum, Bartimus and Kay lead the way in a rough Westerly direction (roughly a straight line)
+  - Everyone manages some sleep, but Kay suffers a point of exhaustion :(
+- At the end of the day, we get about hald way between the East and West islands (about one square south of the little blob in the middle islands)
+- Bartimus sings us a sea shanty. The DM's words were "pretty good". Bartimus keeps the moral high with "the steel drum and the voice combo".
+
+## 7th Winterspeak
+- Day of travel at sea; Kay loses her point of exhaustion, and Bartimus and Evelda suffer one point of exhaustion.
+- We get to choose where to land, we can make out the three gulfs on the East coast of the West island.
+  - We decide to land in the first gulf, as it takes the least time.
+- We land in a town, and are met on the port with significant questioning. Who are we? What are we doing here? As soon as the realise we are not Pixie related, they become very helpful.
+- We get 425xp!
+
 
 # People
 - Reldath (Matt) the dwarf
@@ -387,7 +427,7 @@ gold band ring
 
 # Guild funds: 237g
 
-# Experience: 6125 (at end of Session 13)
+# Experience: 6550 (at end of Session 14)
 
 # Big hits
 ## Single biggest hit
@@ -395,5 +435,6 @@ gold band ring
   1. Evelda: 37. (1d12 + 1d4) + (1d12 + 1d4)(crit) + (1d12)(savage attacks, lvl 3)
 
 ## Total damage done in a round
+  3. Thundhrum: 96 (2 x 12hp + 3 x 24hp), shatter
   2. Evelda: Same as single biggest (2)
   1. Evelda: Same as single biggest (1)
