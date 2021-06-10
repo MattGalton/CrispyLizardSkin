@@ -415,19 +415,86 @@ gold band ring
 - We land in a town, and are met on the port with significant questioning. Who are we? What are we doing here? As soon as the realise we are not Pixie related, they become very helpful.
 - We get 425xp!
 
+# Session 15
+
+- We arrived to the town of Yflion
+- People are a bit nervous; it's clear that we're strange travellers
+- We waste hours searching for an inn -- Bartimus and Thundrhum march us down the residential district
+- We reach an inn, called the spoon and ladle
+- In the town center, Thundhrum spots a small jewelery shop
+- Kay sees some posters:
+  - One poster for the Prince's circus, but no instructions
+    - Kay shares this with us: The Prince of rain and shine is Kay's master; Kay wasn't aware he was 
+  - One poster for the recruitment of the royal army
+  - One poster for an amateur dramatics
+- We walk in the inn, Kay at the front. She goes in easily, but the inn stops when we enter.
+  - He asks the barman about the circus: He says they were heading North about 10 days ago.
+  - They start arguing -- He hasn't seen the Prince
+  - We sit at a table: They have wine.
+  - Kay asks for 3 bottles with a nice suggestion; the bartender gives her three bottles of Immolonean mead
+  - Thundhrum clicks his heels and puffs his cloak out and "floats" out the inn at 50ft/sec.
+- Cast Tiny Hut exactly 10ft from inn door, so patrons have to squeeze past
+  - Reldath reads for 8hrs and gets a point of exhaustion
+
+## 8th Winterspeak
+- We prepare a great show for when the hut drops, and we absolutely kill it. Reldath starts a bass beat, Bartimus gives a SICK performance and riffs it, Kay gets on Evelda's shoulders and when the hut drops bigs up the circus, does a flip off of Evelda's shoulders and uses Reldath pop up hat to collect 20g (3d100!!!)
+    - The inn keeper looks **pissed** that we got so much applause and no repercussions from the guards
+- Kay asks some well-to-do man about a fey witch or someone who would buy giants thumbs
+  - The well-to-do man says about hags being near the forest; the outskirts of the woods is a days walk west. (The middle of kingdom of mompoiaria where there are no cities is the woods region)
+- We walk west and get to the edge of the woods at the end of the day
+- We share our past stories with each other as we camp down for the night with a tiny hut
+
+## 9th Winterspeak
+- We walk through into a clearing, where we come across 4 statues
+- As we approach a statue, three 10 foot 8 legged lizards jump out at us
+<figure><center><figcaption><small>The basilisk fight scene</figcaption><img src=images/15/basilisk-fight-scene.png width="250"></center></figure>
+<figure><center><figcaption><small>A basilisk</figcaption><img src=images/15/basilisk.png width="250"></center></figure>
+
+  - One stares at Yevelda and Reldath with its icy blue gaze, and their feet turn to stone
+  - We kill them
+  - We find a vial with a tiny amount of shiny silver liquid in it, and an urn/jug with a sealed looking top with 10 corks in the top (swishing it around reveals it has liquid in it), there is also 2 more of the spilled silver liquid potion. He was also carrying 43g.
+  - Reldath identifies the potion (difficult with such a small sample) -- It is not a potion, it is actually an oil, designed to cover a body and remove a petrify effect.
+  - Reldath knows these creatures, they are basilisks.
+- We pour the oil over one guy, who has an arm bitten off. Initially it does nothing, but then after 3 or 4 minutes it immediately seeps into the stone and a flesh tone returns in the blink of an eye.
+- He comes back and falls to the ground, Thundhrum cures his wounds and he reaches for his sword. He speaks in Sylvan with Kay and tells him its the year 682 of the 4th age (same year as material plane). He starts speaking common and says its barely been a couple of months. We offer him some water & some honey wine
+  - He might be able to find a buyer for giant's fingers
+  - He's never baked before. He doesn't want to learn
+  - He knows a little bit about Zavylan
+    - He hasn't heard the name Asara before
+  - His name is Fenellis Sunsong
+  - He's on his way to Shylalian, he can show us the way if we want
+- We spend 20-30 minutes in the forest to the North, but eventually Fenellis finds an egg. Luckily we don't find any more basilisks.
+  - He's clearly a woodsman, he recons the eggs will hatch in about 25 days. The nests have been disturbed and moved away from for about 4-5 months, so he's missed his window and can't sell to his buyer.
+- He recons his buyers wont pay much for giants fingers, a few gold pieces each maybe.
+- We make a tiny hut and rest for the night
+  - Reldath takes a point of exhaustion and fully reads the hitch hikers guide to planar travel
+    - It becomes a spell book for planar travel (5th level) and plane shift (7th level), which he can learn when he's powerful enough.
+## 10th Winterspeak
+- We spend the next day and a half travelling, fairly quickly, to Shylalian.
+## 11th Winterspeak
+- We arrive to Shylalian in the evening.
+- In the center of the city is a giant tree, 50-70ft tall, in its center.
+  - Kay is a bit like "ugh this again"
+  - The rest of us are taken back with the sparkle of the city!
+- We get 920xp
+
 
 # People
 - Reldath (Matt) the dwarf
 - Evelda (Bex) the half human/half orc
 - Bartimus (Ceidz) the human bard
 - Thundrhum (Tom) the dwarf by Barrowport (capital)
+- Kay (Jenni) the Sylvan elf
 
 # Bag of holding (500lb capacity)
  - 10 x giant fingers (20lb)
+ - 1 x butternut squash opaque jug with 10 coloured corks in it: light green, dark green, pale orange, bright yellow, white, yellow tinged with lime, brown, blue, blue (same as previous) but not a solid blue, it gradients to white, and dark red.
+ <figure><center><figcaption><small>The butternut squash jug</figcaption><img src=images/15/butternut-squash-jug.png width="250"></center></figure>
+ - 1 x leather knapsack
 
-# Guild funds: 237g
+# Diamond fund: 300g
 
-# Experience: 6550 (at end of Session 14)
+# Experience: 7470 (at end of Session 14)
 
 # Big hits
 ## Single biggest hit
