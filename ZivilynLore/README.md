@@ -10,4 +10,3 @@ Zivilyn’s teachings tell us that it is worse, through your own actions, to ste
 Because of these facts Zivilyn’s influence is subtle, for fear of influencing the actions of mortals one of the few places he never travels to is the material plane. For the few special mortals that he deems need his guidance he instead sends a champion, normally a fae from the feywilds, to introduce those under his watch to their fate. ((No mention is made of Asara however))
 
 Although a traveller, Zivilyn’s home plane is the Olympian Glades of Arborea some say the tree yggdrasil is his home, others still believe that yggdrasil and Zivilyn are one and the same, and it is through the roots of the great tree that he provides his services to all the known planes.
-#

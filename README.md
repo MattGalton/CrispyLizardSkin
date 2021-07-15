@@ -478,23 +478,75 @@ gold band ring
   - The rest of us are taken back with the sparkle of the city!
 - We get 920xp
 
+# Session 16
+- It's a hot day (irl) -- Get the fans out
+<figure><center><figcaption><small>What a quiff</figcaption><img src=images/16/quiff.gif width="250"></center></figure>
+
+- Looking around around, Kay and Howl seem to have dissapeared
+- Still twilight
+- Fenelis suggests not to cut through the south docks, but instead go around, and get to clearhill.
+- There is a small gap between every building.
+- Fenellis tells us Fargrove is where most of the local traders are.
+  - Also spice square, and wetmarket is for trade from the sea
+- Fenellis is off to the Winking Otter, just by the north wall of the citadel. Leaves us in Fargrove.
+- Thundhrum spots a dark faced shop with tinted windows, lined with lots of potion bottles, and no sign on it
+  - Thundhrum says this is it. This is the weird ass shop
+- We go in and a see a small sylvan elf (4.5 ft). It's the first one that we've seen that is showing their age. She has thick wrinkles, with off-white gray hair. She has bottle-cap lensed glasses which enlarge her eyes.
+  - She explains that hill giants toe hairs has a very high concentration of the element that makes a strength potion. Since the fingers are not that strong, it would make like a 1.5l. We say no thanks!
+  - She also tells us that the butternut squash jug is an alchemy jug. It gives you unlimited liquid
+    - The red top one was a nice wine
+- We go to the temple
+  - We see the golden symbol of the tree on some clergymen and clergywomen, so we can see who is looking after the temple
+  - The temple is inside the tree, and is beautifully ordained with items made SOLELY from the tree itself
+  - We spend about a minute taking it all in, then as we walk in, Thundhrum notices that in the side corridor there was Asara. They make eye contact and Asara turns around a tight corner.
+  - We chase her and take the same turn she did. 
+  - We reach a t junction and turn left
+  - Colgate goes right and reports 3 doors. On the left we note more doors and some stairs. We skip the dorm doors and go upstairs. We send Colgate to the main hall to scout.
+  - We get stopped and have a discussion about finding Asara. He was a bit abashed that we were authoritative and said no priest or priestess Asara was here, or was visiting that he was aware of.
+  - We get stopped by a priest of high ranking and two towns guards. We convince the priest that we are here because we were told it was our fate. Have a chat with the priest.
+    - The last champion was a legend from the 1st age, barely any texts are kept. Even then, it was under dire circumstances.
+    - Learning his teachings would help us realise how ridiculous making a journey of this magnitude to _chase_ ones fate is.
+  - Invited to tomorrow's sermon. He'll see what he can do about showing us around after the sermon!
+  - Colgate didn't spot anything while scouting
+- Head over to the winking otter
+  - Meet a very drunk Fenellis, who buys us a drink
+  - We offer him 10g to hunt down Asara for us. He thanks us and spends 2g of his 10g for our drinks and rooms.
+  - We find out what is in the alchemy jug!
+  - We go to bed!
+
+- We got 400xp
+
+## 12th Winterscrest
+
+
+
+
 
 # People
 - Reldath (Matt) the dwarf
 - Evelda (Bex) the half human/half orc
 - Bartimus (Ceidz) the human bard
 - Thundrhum (Tom) the dwarf by Barrowport (capital)
-- Kay (Jenni) the Sylvan elf
+- Kay (Jenni) the Sylvan elf & Howl
 
 # Bag of holding (500lb capacity)
- - 10 x giant fingers (20lb)
- - 1 x butternut squash opaque jug with 10 coloured corks in it: light green, dark green, pale orange, bright yellow, white, yellow tinged with lime, brown, blue, blue (same as previous) but not a solid blue, it gradients to white, and dark red.
- <figure><center><figcaption><small>The butternut squash jug</figcaption><img src=images/15/butternut-squash-jug.png width="250"></center></figure>
+ - 1 x alchemy jug with 10 coloured corks in it
+  - light green: Starts smoking when poured. It eats through the glass and the table underneath. Some sort of acid.
+  - dark green: Basic weapon poison. Coat with a bonus action. DC12 con save inflicts poison for a minute.
+  - pale orange: Pours a perfectly headed beer
+  - bright yellow: Sticky honey
+  - white: Mayonaise
+  - yellow tinged with lime: _Looks like_ a good quality cooking oil.
+  - brown: Vinegar
+  - blue: Water
+  - blue fading to white: Salt water
+  - dark red: Nice wine
+ <figure><center><figcaption><small>The "butternut squash" alchemy jug</figcaption><img src=images/15/butternut-squash-jug.png width="250"></center></figure>
  - 1 x leather knapsack
 
-# Diamond fund: 300g
+# Diamond fund: 290g
 
-# Experience: 7470 (at end of Session 14)
+# Experience: 7870 (at end of Session 16)
 
 # Big hits
 ## Single biggest hit
