@@ -551,15 +551,18 @@ gold band ring
 - Give him 40g for 5 days of PI work. We tell him we'll check up on him every evening
 - Asara: Kind of elf looking, bobcut blonde hair, fairly plain clothes. Fair features. We now realise she was a Sylvan elf. Fairly tall, but not overly tall.
 - Spend some time looking for info about the Zavylan shrine to the south
-  - Bump into a lady who says to follow the water south after a little under a days travel, then a little way inward you'll get to the shrine. It's a cave with a zav
+  - Bump into a lady who says to follow the water south after a little under a days travel, then a little way inward you'll get to the shrine. It's a cave with a zavylan sign above it.
 - Head to the cave and go in
   - Fight two black slimes. Thundhrum takes 15 (1d6 + 3) damage + (4d8 acid) 34 acid damage = 49 damage, including acid dmg, and wrecks his armour. He heals it with the mending cantrip.
 - "I have an idea for a sophisticated cleaning product. Giant destructive black hole slime. Anyway, any news on your end question mark."
   - Response: "Ok... I assume this is Bartimus... Sounds interesting... Nothing more discovered today. Going to see if I can get some descriptions of Guinda and see if they" -- message cuts off -- (match your description of Asara)
-  <figure><center><figcaption><small>Us</figcaption><img src=images/17/us.png width="250"></center></figure>
+<br>
+  <figure><center><figcaption><small>Us</figcaption><img src=images/17/us.png width="450"></center></figure>
+<br>
   <figure><center><figcaption><small>Smouldering DM kills party</figcaption><img src=images/17/sexy-dm.png width="250"></center></figure>
+<br>
   <figure><center><figcaption><small>Frozen in time</figcaption><img src=images/17/kdog.png width="250"></center></figure>
-
+<br>
 - We get 850xp.
 - We make a tiny hut, set an alarm for the entrance to the cave, and go to sleep.
 
@@ -575,7 +578,7 @@ gold band ring
 
 # Diamond fund: 250g
 
-# Experience: 7870 (at end of Session 16)
+# Experience: 8720 (at end of Session 16)
 
 # Big hits
 ## Single biggest hit
