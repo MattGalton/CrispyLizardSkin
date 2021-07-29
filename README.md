@@ -518,9 +518,50 @@ gold band ring
 
 ## 12th Winterscrest
 
+# Session 17
+- Awaken well rested in Shylallian
+- Head back to the temple and hit some traffic -- Lots of people are going to the mornings mass
+  - As we walk in, we get a bro'ey nod from the high priest
+- Sermon starts, and Reldath starts ritual casting "Comprehend Languages". After 10 minutes he understands the high priest
+  - Sermon lasts for another 30 minutes, and he gets the feeling that a tale was being told with a moral to it
+  - The moral of the story is that "ultimately you are the master of your own destiny. You should give/accept help when able, but you should not be influenced by anyone in particular"
+  - High priest Zendar. He's an elf. He said it's unlikely we'll ever achieve our true destiny and reach enlightenment
+  - He tells us that a lot on Junior priests go off to achieve their destiny an enlightenment quest and never reach senior rank
+- He shows us around. Not allowed to touch anything. Most information is private. Not secret, but private information about past and present priests.
+  - On the right are the priest/priestess quarters
+  - On the left upstairs is the library. We head up there
+    - The juniors jobs are to "refresh" the tomes. Copying them and throwing the old tomes away. They tend to hold knowledge of history.
+    - Zavylan lives in all times and all places at once
+  - We go a floor up, and it's much more plush. This is where the "present" is captured
+  - We finally get to the top floor. We're not allowed in any of the rooms, but we are told that this is where the high priest/priestesses quarters are. There are 4 of them
+- He asks if we'd like to hear about the champion of the first age, in the hopes that we'd understand as to why Zavylan would not choose a champion
+  - When a god elects a mortal champion, that individual is permanently stopped from attaining nirvana. No mortal is destined to be a champion of a god -- They could be chosen because they are close to or have achieved nirvana already
+  - For Zavylan to elect a champion, it would be him going against his own teachings to affect ones purpose. The only reason he would elect a champion is that there must be something insanely dark/evil in the future
+- We ask him if he knows about Asara (he rolled 18 against a 13DC suggestion spell!), and he says he really doesn't know
+- We head back to the winking otter, and see him at the table with a smug grin on his face
+  - He waves us over, and tells us he followed us to the temple
+  - He did us a solid and did some digging for us while we had our tour. He didn't find Asara but did find a letter
+  - The letter says that some young priestess says that she was leaving the temple effective immediately last night
+  - The letter is in Sylvan, but it says that a priestess "Guinda" is off to do some personal errand south to Zavylans shrine
+- He likes this PI work
+- Main entrance to Alastairs in soldiers gate where it meets the fargrove
+- Fenellis offers to do PI work in the city for 8g a day
+  - In celebration, Thundhrum offers him a beer from the bag of holding and he fuckin noticed it was his
+  - Had to give it back :(
+- Give him 40g for 5 days of PI work. We tell him we'll check up on him every evening
+- Asara: Kind of elf looking, bobcut blonde hair, fairly plain clothes. Fair features. We now realise she was a Sylvan elf. Fairly tall, but not overly tall.
+- Spend some time looking for info about the Zavylan shrine to the south
+  - Bump into a lady who says to follow the water south after a little under a days travel, then a little way inward you'll get to the shrine. It's a cave with a zav
+- Head to the cave and go in
+  - Fight two black slimes. Thundhrum takes 15 (1d6 + 3) damage + (4d8 acid) 34 acid damage = 49 damage, including acid dmg, and wrecks his armour. He heals it with the mending cantrip.
+- "I have an idea for a sophisticated cleaning product. Giant destructive black hole slime. Anyway, any news on your end question mark."
+  - Response: "Ok... I assume this is Bartimus... Sounds interesting... Nothing more discovered today. Going to see if I can get some descriptions of Guinda and see if they" -- message cuts off -- (match your description of Asara)
+  <figure><center><figcaption><small>Us</figcaption><img src=images/17/us.png width="250"></center></figure>
+  <figure><center><figcaption><small>Smouldering DM kills party</figcaption><img src=images/17/sexy-dm.png width="250"></center></figure>
+  <figure><center><figcaption><small>Frozen in time</figcaption><img src=images/17/kdog.png width="250"></center></figure>
 
-
-
+- We get 850xp.
+- We make a tiny hut, set an alarm for the entrance to the cave, and go to sleep.
 
 # People
 - Reldath (Matt) the dwarf
@@ -530,21 +571,9 @@ gold band ring
 - Kay (Jenni) the Sylvan elf & Howl
 
 # Bag of holding (500lb capacity)
- - 1 x alchemy jug with 10 coloured corks in it
-  - light green: Starts smoking when poured. It eats through the glass and the table underneath. Some sort of acid.
-  - dark green: Basic weapon poison. Coat with a bonus action. DC12 con save inflicts poison for a minute.
-  - pale orange: Pours a perfectly headed beer
-  - bright yellow: Sticky honey
-  - white: Mayonaise
-  - yellow tinged with lime: _Looks like_ a good quality cooking oil.
-  - brown: Vinegar
-  - blue: Water
-  - blue fading to white: Salt water
-  - dark red: Nice wine
- <figure><center><figcaption><small>The "butternut squash" alchemy jug</figcaption><img src=images/15/butternut-squash-jug.png width="250"></center></figure>
  - 1 x leather knapsack
 
-# Diamond fund: 290g
+# Diamond fund: 250g
 
 # Experience: 7870 (at end of Session 16)
 
@@ -557,3 +586,6 @@ gold band ring
   3. Thundhrum: 96 (2 x 12hp + 3 x 24hp), shatter
   2. Evelda: Same as single biggest (2)
   1. Evelda: Same as single biggest (1)
+
+## Total damage taken in one hit
+  1. Thundhrum: 15 (1d6 + 3) damage + (4d8 acid) 34 acid damage = 49 damage
